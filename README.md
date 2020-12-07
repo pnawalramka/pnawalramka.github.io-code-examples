@@ -1,3 +1,3 @@
 # pnawalramka.github.io-code-examples
 
-Code snippets for [my website](pnawalramka.github.io).
+Code snippets for [my website](https://pnawalramka.github.io).
